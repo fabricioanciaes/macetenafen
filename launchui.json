@@ -1,0 +1,22 @@
+{
+  "name": "macetenafen",
+  "entry": "dist/main.min.js",
+  "out": "",
+  "pack": "",
+  "overwrite": true,
+  "company": "lofi1048",
+  "copyright": "",
+  "icon": {
+    "win32": "macetenafen.ico",
+    "darwin": ""
+  },
+  "license": "",
+  "identifier": "",
+  "category": "",
+  "dir": "",
+  "files": "",
+  "launchui": {
+    "version": "",
+    "cache": ""
+  }
+}
