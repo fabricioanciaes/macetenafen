@@ -8,6 +8,10 @@ Macetenafen is a minimal GUI focused on netplay for mednafen powered by
 <a href="https://vuejs.org/">Vue.js</a> through <a href="https://vuido.mimec.org/">Vuido</a>
 </p>
 
+<p align="center">
+    <img src="macetenafen-gui.png">
+</p>
+
 ## Setup
 
 1. Make sure you extract it alongside your mednafen executable
