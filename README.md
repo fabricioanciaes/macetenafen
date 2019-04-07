@@ -37,3 +37,9 @@ Macetenafen is a minimal GUI focused on netplay for mednafen powered by
 1. Choose a gamekey (you and the person you're connecting to should use the same) 
 1. Put in your nickname, server and port
 1. Either press `Play Online` or `Play Offline`
+
+---
+
+#### Credits
+
+Icon: https://twitter.com/ZapLayden/status/752067810956750848
